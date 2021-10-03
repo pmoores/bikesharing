@@ -23,7 +23,9 @@ Use Tableau to provide an overview of NYC CitiBike ridership data as part of a p
 
 
 ## Summary
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+Based on the results from the NYC CitiBike analysis, investors in Des Moines should focus their initial promotions on signing up subscription riders, focusing on trips of one hour or less, and target weekday commuters (Monday to Friday, 8am, and 5-6pm).
+
+The following two additional visualizations are recommended in order to strengthen this analysis: 1) Duration of Trip by Weekday by Hour, 2) Trips by Weekend by Hour (Saturday and Sunday).
 
 
 ## Attachments
