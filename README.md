@@ -7,7 +7,7 @@ Use Tableau to provide an overview of NYC CitiBike ridership data as part of a p
 
 
 ## Results
-- Of a total of 2,344,224 riders, there are more subscribers (n=1,900,359) than short term customers (n=443,865): [https://github.com/pmoores/bikesharing/blob/main/Resources/Ridership_by_Customer_Type.png).
+- Of a total of 2,344,224 riders, there are more subscribers (n=1,900,359) than short term customers (n=443,865): [Ridership Breakdown: Customer Type](https://github.com/pmoores/bikesharing/blob/main/Resources/Ridership_by_Customer_Type.png).
 
 - Of a total of 2,344,224 riders, there are more male riders (n=1,530,272) than female riders (n=588,431) or those listed as unknown gender (n=225,521): [Ridership Breakdown: Gender](https://github.com/pmoores/bikesharing/blob/main/Resources/Ridership_by_Gender.png).
 
