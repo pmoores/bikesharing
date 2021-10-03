@@ -15,7 +15,7 @@ Use Tableau to provide an overview of NYC CitiBike ridership data as part of a p
 
 - The most frequent trip duration for males is 5 minutes, females is 6 minutes and unknown gender is 11 minutes: [Number of Trips by Trip Duration - Gender](https://github.com/pmoores/bikesharing/blob/main/Resources/Number_of_Trips_by_Trip_Duration_Gender.png).
 
-- The times during the weekday that have the largest ridership are Monday to Friday at 8am, and Monday to Friday 5pm and 6pm (excluding Wednesday: [Number of Trips by Weekday by Hour](https://github.com/pmoores/bikesharing/blob/main/Resources/Number_of_Trips_by_Weekday_by_Hour.png).
+- The times during the weekday that have the largest ridership are Monday to Friday at 8am, and Monday to Friday 5pm and 6pm (excluding Wednesday): [Number of Trips by Weekday by Hour](https://github.com/pmoores/bikesharing/blob/main/Resources/Number_of_Trips_by_Weekday_by_Hour.png).
 
 - These ridership patterns are very similar for both males and females: [Number of Trips by Weekday by Hour - Gender](https://github.com/pmoores/bikesharing/blob/main/Resources/Number_of_Trips_by_Weekday_by_Hour_Gender.png).
 
@@ -23,7 +23,7 @@ Use Tableau to provide an overview of NYC CitiBike ridership data as part of a p
 
 
 ## Summary
-Based on the results from the NYC CitiBike analysis, investors in Des Moines should focus their initial promotions on signing up subscription riders, focusing on trips of one hour or less, and target weekday commuters (Monday to Friday, 8am, and 5-6pm).
+Based on the results from the NYC CitiBike analysis, investors in Des Moines should focus their initial promotions on signing up subscription riders, focusing on trips of ten minutes or less, and targeting weekday commuters (Monday to Friday, 8am, and 5-6pm).
 
 The following two additional visualizations are recommended in order to strengthen this analysis: 1) Duration of Trip by Weekday by Hour, 2) Trips by Weekend by Hour (Saturday and Sunday).
 
